@@ -1,7 +1,7 @@
-[![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)
+![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)
 <h1 align="center">Hi 👋, This is Shivam Kedare</h1>
 <h3 align="center">Innovative Web Development Meets Ethical Hacking</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv369tes&label=Profile%20views&color=0e75b6&style=flat" alt="shiv369tes" /> </p>
 
