@@ -1,4 +1,4 @@
-![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, This is Shivam Kedare</h1>
 <h3 align="center">Innovative Web Development Meets Ethical Hacking</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv369tes&show_icons=true&locale=en&layout=compact" alt="shiv369tes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiv369tes&show_icons=true&locale=en" alt="shiv369tes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv369tes&" alt="shiv369tes" /></p>
