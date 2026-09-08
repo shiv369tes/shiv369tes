@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at (https://shiv369t.vercel.app/)](https://portfolio369.shivamkedare7171.workers.dev/)
+- 👨‍💻 All of my projects are available at (https://portfolio369.shivamkedare7171.workers.dev/)
 
 - 📫 How to reach me **shivamkedare7171@gmail.com**
 
