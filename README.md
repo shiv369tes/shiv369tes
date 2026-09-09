@@ -171,16 +171,6 @@ Working across:
 
 ---
 
-# `06 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv369tes&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 # `07 // RANDOM ACCESS MEMORY`
 
 ```text
